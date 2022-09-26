@@ -1,6 +1,9 @@
 👋 Hi, I’m @PetyaKKoleva
-🌱 I’m currently learning Java as a beginner 
-LinkedIn:https://www.linkedin.com/in/petyakkoleva
+
+🌱 I’m currently learning Java 
+as a beginner 
+LinkedIn:
+https://www.linkedin.com/in/petyakkoleva
 
 <!---
 PetyaKKoleva/PetyaKKoleva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
