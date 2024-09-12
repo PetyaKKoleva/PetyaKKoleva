@@ -1,7 +1,7 @@
 👋 Hi, I’m @PetyaKKoleva
 
-🌱 I’m currently learning Java 
-as a beginner 
+🌱 I’m currently learning Python Fundamentals
+
 LinkedIn:
 https://www.linkedin.com/in/petyakkoleva
 
